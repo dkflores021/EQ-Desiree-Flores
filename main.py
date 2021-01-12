@@ -4,11 +4,11 @@ print ("Nice to meet you, %s!" %name)
 
 print("To exit the chat, enter \"Goodbye Jarvis!\" ")
 
-def subject_says (emotion):
-  print ("How are you feeling today?")
-  if subject_says:
-    else: 
-  subject()
+# def subject_says (emotion):
+#   print ("How are you feeling today?")
+#   if subject_says:
+#     else: 
+#   subject()
 # how has your day been today or 
 #how are you feeling so far today: 
 # - alright | - happy | - sad | 
