@@ -1,6 +1,6 @@
 # ** Chatbot **
 
-_ This Chatbot's name is "Jarvis"._
+_This Chatbot's name is "Jarvis"._
 
 ## Table of Contents
 
