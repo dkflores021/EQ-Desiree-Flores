@@ -6,20 +6,17 @@ _ This Chatbot's name is "Jarvis"._
 
 - [Cool Math Games](www.coolmathgames.com/)
 
-- [Install](#install)
-
-- [Usage](#usage)
-
 ## Background
 
-This is why this application exists.
+I made this for code2college
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
-
+- Installed the READ.me file
 ## Usage
 
-These are the steps to use the application or interact with it.
+- read.me file
+- 
 
 ### Any optional sections
+- _have a good day!_
